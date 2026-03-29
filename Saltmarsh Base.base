@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: View
+    order:
+      - file.name
+      - file.ctime
+      - file.links
+      - file.tags
