@@ -2,159 +2,31 @@
 #session_notes #characters
 [[Saltmarsh Background]]
 [[Saltmarsh Player's Guide]] 
-## Character Creation:
-1. Portia
-	1. Played by: Austin
-	2. Race: Aasimar 
-	3. Class: Druid
-	4. Faction: Traditionalist 
-	5. Background: Sailor
-	6. Bar: Snapping Line
-2. Rinn
-	1. Played by: Asmel
-	2. Race: Elf
-	3. Class: Rouge
-	4. Background:
-	5. Faction: Loyalist (for the $ in town to steal it)
-	6. Bar: Empty net/Snapping line
-3. Vinder
-	1. Played by: George
-	2. Race: Human
-	3. Class: Wizard
-	4. Faction: Loyalist (see above)
-	5. Background:
-4. Arvis
-	1. Played by: Nag
-	2. Race: Elf
-	3. Class: Ranger
-	4. Background:
-	5. Bar: Empty net
-	6. Faction: Loyalist
-5. Domenico
-	1. Played by: Sebastian
-	2. Race: Human
-	3. Class: Warlock
-	4. Faction: loyalist 
-	5. Background:
-	6. Bar: Wicker Goat
-6. Burvok
-	1. Played by: Eric
-	2. Race: Dragonborn
-	3. Class: Cleric
-	4. Background: 
-	5. Faction: traditionalist 
-	6. Bar: Empty net 
-7. Jack
-	1. Played by: Don
-	2. Race: Human
-	3. Class: Paladin 
-	4. Background:n
-	5. Faction: loyalist 
-	6. Bar: Empty net
+[[Adventurers]]
 
 
 STORY
-NPCs
-1. Eliander Fireborn
-	1. Captian of the town guard and town council member
-	2. Appointed by king, unelected
-2. Manistrad Copperlocks (dwarf)
-	1. Council member (appointed)
-	2. Loyalist 
-	3. Head of mining consortium 
-3. Kraddock Stonehorn
-	1. Jailor
-4. Anders Solmor
-	1. Head of the town council (elected)
-	2. Parents died in fire, from wealthiest familes in town, has since been a gregarious and gregarious patron of the town
-	3. Scarin
-		1. Family retainer, his "Alfred"
-5. Eda Oland
-	1. Town council member (elected)
-	2. Hardcore traditionalist 
-	3. Known for taking in strays
-	4. Hadden "Salteye" Vain
-		1. The stray that stuck around
-	5. (Vinder knows her)
-6. Gellen Primewater
-	1. Town council member (elected)
-	2. Traditionalist 
-	3. Big partier, widely understood to be the biggest smuggler in Saltmarsh (Eliander would love to nail him)
-		1. Feliza Pendergal (gnome) - primewater household cook 
-7. Krag
-	1. A friend of eliander 
-	2. A big reader (like eliander)
-	3. Gravedigger half orc 
-8. Three Tavern Owners
-	1. The Snapping line tavern (Hanna Rist - Owner)
-		1. Claw wine (specialty food, and aquired taste)
-		2. Bulit from hulls of old ships
-		3. Smells like fish 
-		4. Sailors and travelers  
-	2. Wicker Goat (Lankus )
-		1. Oldest in town
-		2. Owned by a KOish army 
-		3. Loyalist bar
-	3. Empty Net (Kreb Shenker - owner)
-		1. Smuggler/mercenary/pirate bar
-		2. Traditionalists bar (hard side)
-		3. Fighting, town guard only comes if called
-9. Shopkeepers
-	1. Capt. Xendros (Tiefling)
-		1. Faithful Quartermasters of Iuz
-		2. Wants to buy LOTS of fish
-		3. (Country he's from has bad reputation, rumored to be run by a demon/licht that controls the people, but far enough away we can trade)
-	2. Mefarra (mother) and Jasker (son)
-		1. Shop: dwarven anvil - blacksmith
-			1. Copperlocks is not a fan, name is offensive
-			2. Thinks they should give the actual anvil back
-10. Kiorna Kester
-	1. Tanner and Furrier 
-11. Jilar Kanklesten (gnome)
-	1. Carpenters' guildmaster
-12. Pippin Fairbarn (dwarf)
-	1. Cooper
-13. Winston (hafling)
-	1. General store owner
-Other NPCs
-14. Ferrin Kastilar 
-	1. Hafling
-	2. Druid, Sea Grove of Obad-Hai
-15. Ingo the Drover
-	1. Muscle for hire
-16. Gervase Thistlewaite
-	1. Royal revenue assessor 
-17. Wellgar Brinehanded
-	1. Chief priest of Procan
-18. Sellen Reves - Legate of the Azure Verge (local member)
-19. Factions:
-		1. Traditionalist - protect the town, smuggling is victimless crime, don't like the loyalists, are scared of starting a war with the Sea Princes 
-		2. Loyalist - Loyal to the king, want the gentrification
-Town:
-20. Crab cove
-	1. Thousands of crabs, people have disappeared here before (fishermen), people are wary
-
-Story:
-21. There are three individuals (Friends of Fortune) that Jack knows
+1. There are three individuals (Friends of Fortune) that Jack knows that went on an adventure
 	1. Ned Shakeshaft, Garric and Alara Hallowell
-		1. They are honorable people, they want to do whats right
-		2. They were talking about a haunted house that is supposedly filled with treasures, do we want to go 
-22. The next morning, Domenico is on the docks and Alara's body washes up 
+		1. "They are honorable people, they want to do whats right" - Jack
+		2. They were talking about a haunted house that is supposedly filled with treasures, do we want to go?
+			1. Yes
+2. The next morning, Domenico is on the docks and Alara's body washes up 
 	1. Domenico tries to CPR, pumps her chest, water came out of mouth but inconclusive to if it was from lungs or not (i.e. drowned)
 	2. No magic on the body (Vinder detect magic)
 	3. Investigation (Rinn) - body has no weapons or armor, abrasions around wrist and ankles, bruise on her cheek
-	4. The town cops (eliander called) calls the gravedigger to deal with the body
-	5. Eliander says he will call the town council to deal with the haunted house because "this has gone on long enough"
-		1. Rinn talks to him because they have a relationship from Rinn being arrested so many times, Rinn says he's going to burn it to the ground and doesn't want help to do so (despite Rinn's offer)
+	4. The town cops (Eliander) calls the gravedigger (Kragg) to deal with the body
+	5. Eliander says he will call the town council to deal with the haunted house because "this [haunted house] has gone on long enough"
+		1. Rinn talks to him because they have a relationship from Rinn being arrested so many times, Eliander says he's going to burn it to the ground and isn't interested in Rinn's offer
 	6. Kragg and Arvis talk, no other bodies related to the haunted house
 	7. Burvok is called in to perform last rites of the deceased 
+		1. Cleric of Procan ceremony 
 	8. Town council meeting:
-		1. Town guard should be despatched to burn the house to the ground, Anders says that men of flesh and blood can't fight ghosts (eliander thinks that's bunk)
+		1. Town guard should be despatched to burn the house to the ground, Anders says that men of flesh and blood can't fight ghosts (Eliander thinks that's bunk)
 		2. Traditionalist faction doesn't think anything should be done at all
 			1. House is been here a long time, it's a local legend, don't destroy it
 		3. Elidander wants a non-town affiliated group of magic users to investigate 
-			1. What's in it for the group?
-				1. 200 gp
+			1. [[1. Deal with the Haunted House]]
 		4. Vinder is drumming up the troops 
 			1. Vinder/Rinn want money
 			2. Arvis wants money
@@ -171,9 +43,7 @@ Story:
 					3. The headstone was no one in particular (Etta's grandmother)
 					4. Kragg demands that Burvok removes all the stones from the body and he ends up pulling out 5 
 					5. There is value with the stones
-			2. House background:
-				1. Was owned by alchemist, was abandoned 20 years ago ish and ever since known as the "haunted house"
-		7. We head out at noon to the house, the town LOVES that we (i.e. expendables) are going to investigate, they follow us for 25 of the 30 min walk and then peace out
+		7. We head out at noon to the house, the town LOVES that we (i.e. expendables) are going to investigate, they follow us for 25 of the 30 min walk and then peace out when they get close
 			1.  We approach as a group, stone wall around house is 6ft tall, partially collaped in places. "garden" around house, clearly had not been tended in many years
 			2. There are footprints heading towards the house in the dirt
 			3. Rinn tries to open the door, opens to entrance hall with bare walls and smashed furnature with stairs upstairs, we go into first room on right and see there is nothing going on, but there is something in the fireplace that is shiny 

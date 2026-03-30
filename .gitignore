@@ -2,3 +2,5 @@
 workspace.json
 workspace-mobile.json
 .DS_Store
+.obsidian/community-plugins.json
+.obsidian/plugins/
