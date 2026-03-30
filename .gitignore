@@ -4,3 +4,5 @@ workspace-mobile.json
 .DS_Store
 .obsidian/community-plugins.json
 .obsidian/plugins/
+obsidian_READ_ONLY_setup.txt
+obsidian_WRITE_ACCESS_setup.txt

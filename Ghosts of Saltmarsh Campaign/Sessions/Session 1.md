@@ -80,4 +80,5 @@ STORY
 3. We collectively receive 650 XP
 	1. 93/character (300 for level 2)
 4. We collected items worth 30 gp, 5 sp, 30 cp
+
 ----------------------- END OF SESSION ONE -------------------------
