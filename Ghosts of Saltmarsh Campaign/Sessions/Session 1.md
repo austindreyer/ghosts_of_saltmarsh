@@ -76,4 +76,8 @@ STORY
 				2. The stairs themselves emit the sound like a shriek that is 1k mirrors being shattered at once, a mouth opens on the stairs that is a portal, but nothing gets sucked in
 				3. There is a scraping sound and footsteps, muffled voices, scraping sound, and silence
 				4. We made it to the basement 
+####End of session notes:
+3. We collectively receive 650 XP
+	1. 93/character (300 for level 2)
+4. We collected items worth 30 gp, 5 sp, 30 cp
 ----------------------- END OF SESSION ONE -------------------------
