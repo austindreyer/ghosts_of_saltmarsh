@@ -6,3 +6,5 @@ workspace-mobile.json
 .obsidian/plugins/
 obsidian_READ_ONLY_setup.txt
 obsidian_WRITE_ACCESS_setup.txt
+
+/obsidian_WRITE_ACCESS_setup.rtf
