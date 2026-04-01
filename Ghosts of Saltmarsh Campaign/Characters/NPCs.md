@@ -68,8 +68,6 @@
 	2. Druid, Sea Grove of Obad-Hai
 2. Ingo the Drover
 	1. Muscle for hire
-3. Gervase Thistlewaite
-	1. Royal revenue assessor 
-4. Wellgar Brinehanded
+3. Wellgar Brinehanded
 	1. Chief priest of Procan
-5. Sellen Reves - Legate of the Azure Verge (local member)
+4. Sellen Reves - Legate of the Azure Verge (local member)
