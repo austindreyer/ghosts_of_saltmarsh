@@ -9,7 +9,7 @@
 	3. Head of mining consortium 
 3. Anders Solmor
 	1. Head of the town council (elected)
-	2. Parents died in fire, from wealthiest familes in town, has since been a gregarious and gregarious patron of the town
+	2. Parents died in fire, from wealthiest families in town, has since been a gregarious and gregarious patron of the town
 	3. Scarin
 		1. Family retainer, his "Alfred"
 4. Eda Oland
@@ -23,7 +23,7 @@
 	1. Town council member (elected)
 	2. [[Saltmarsh Player's Guide#The Factions of Saltmarsh|Traditionalist]]
 	3. Big partier, widely understood to be the biggest smuggler in Saltmarsh (Eliander would love to nail him)
-		1. Feliza Pendergal (gnome) - primewater household cook 
+		1. Feliza Pendergal (gnome) - Primewater household cook 
 ## Eliander's  People
 1. Kraddock Stonehorn
 	1. Jailor
