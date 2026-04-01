@@ -51,8 +51,8 @@
 		2. Wants to buy LOTS of fish
 		3. (Country he's from has bad reputation, rumored to be run by a demon/licht that controls the people, but far enough away we can trade)
 2. Mefarra (mother) and Jasker (son)
-		1. Shop: Dwarven Anvil - bBacksmith
-			1. Have an actual Dworven anvil in the shop
+		1. Shop: Dwarven Anvil - Blacksmith
+			1. Have an actual Dwarven anvil in the shop
 			2. [[NPCs#^Copperlocks|Copperlocks]] is not a fan, shop name is offensive to her, she thinks they should give the anvil back to dwarves
 3. Kiorna Kester
 	1. Tanner and Furrier 
