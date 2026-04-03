@@ -35,7 +35,7 @@ STORY
 		5. Anders is the only one who wants this group to go investigating
 			1. Vinder talks to him directly, he's trying to get more buy in (no dice)
 		6. Funeral 
-			1. Kragg digs the grave, when he gets to the bottom, makes a comment about a worm sticking out of a rat at the bottom of the grave he just dug. He lights some kindling and sticks it on the rot grub and says, "you can't cut 'em, gotta burn 'em". He puts the body in, Burdok notices an old looking headstone with newly dug grave there
+			1. Kragg digs the grave, when he gets to the bottom, makes a comment about a Rot Grub sticking out of a rat at the bottom of the grave he just dug. He lights some kindling and sticks it on the rot grub and says, "you can't cut 'em, gotta burn 'em". He puts the body in, Burdok notices an old looking headstone with newly dug grave there
 				1. "What's up with that disturbed grave?"
 				2. Kragg doesn't know, he starts digging up the freshly disturbed grave and finds the coffin has been broken apart, he checks the body, and where the organs should be, there are a bunch of smooth stones 
 					1. Burvok gets into the grave and takes a stone out of the body that was glowing in the body, but stopped glowing when taken out
