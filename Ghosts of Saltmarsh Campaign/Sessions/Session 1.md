@@ -5,10 +5,11 @@
 [[Adventurers]]
 
 
-STORY
-1. There are three individuals (Friends of Fortune) that Jack knows that went on an adventure
+### Story
+1. 
+2. There are three individuals (Friends of Fortune) that Jach knows that went on an adventure
 	1. Ned Shakeshaft, Garric and Alara Hallowell
-		1. "They are honorable people, they want to do whats right" - Jack
+		1. "They are honorable people, they want to do whats right" - Jach
 		2. They were talking about a haunted house that is supposedly filled with treasures, do we want to go?
 			1. Yes
 2. The next morning, Domenico is on the docks and Alara's body washes up 
@@ -16,7 +17,7 @@ STORY
 	2. No magic on the body (Vinder detect magic)
 	3. Investigation (Rinn) - body has no weapons or armor, abrasions around wrist and ankles, bruise on her cheek
 	4. The town cops (Eliander) calls the gravedigger (Kragg) to deal with the body
-	5. Eliander says he will call the town council to deal with the haunted house because "this [haunted house] has gone on long enough"
+	5. Eliander says he will call the town council to deal with the haunted house because "this [haunted house] has gone on long enough!"
 		1. Rinn talks to him because they have a relationship from Rinn being arrested so many times, Eliander says he's going to burn it to the ground and isn't interested in Rinn's offer
 	6. Kragg and Arvis talk, no other bodies related to the haunted house
 	7. Burvok is called in to perform last rites of the deceased 
@@ -43,7 +44,7 @@ STORY
 					3. The headstone was no one in particular (Etta's grandmother)
 					4. Kragg demands that Burvok removes all the stones from the body and he ends up pulling out five
 					5. There is value with the stones
-		7. We head out at noon to the house, the town LOVES that we (i.e. expendables) are going to investigate, they follow us for 25 of the 30 min walk and then peace out when they get close
+		7. We head out at noon to the house, the town LOVES that we (i.e. expendables) are going to investigate, they follow us for 25 of the 30 min walk and then peace out when we get close
 			1.  We approach as a group, stone wall around house is 6ft tall, partially collaped in places. "garden" around house, clearly had not been tended in many years
 			2. There are footprints heading towards the house in the dirt
 			3. Rinn tries to open the door, opens to entrance hall with bare walls and smashed furniture with stairs going up, we go into first room on right and see there is nothing going on, but there is something in the fireplace that is shiny 
@@ -75,6 +76,7 @@ STORY
 			13. Kitchen is next, with stairs going to up to busted stairs 
 				1. Portia opens the cupboards, giant centipedes attack, some people are paralyzed so rest explore the area and we find the stairs to the basement, fresh tracks going up and down 
 				2. The stairs themselves emit the sound like a shriek that is 1k mirrors being shattered at once, a mouth opens on the stairs that is a portal, but nothing gets sucked in
+					1. Vinder familiar triggered effect, casts detect magic and 
 				3. There is a scraping sound and footsteps, muffled voices, scraping sound, and silence
 				4. We made it to the basement 
 #### End of session notes: 

@@ -33,7 +33,7 @@
 	4. Background: 
 	5. Faction: traditionalist 
 	6. Bar: Empty net 
-6. Jack
+6. Jach
 	1. Played by: Don
 	2. Race: Human
 	3. Class: Paladin 
@@ -48,3 +48,10 @@
 	5. Background: Sailor
 	6. Bar: Snapping Line
 
+8. Rinn
+9. Vinder
+10. Arvis
+11. Domenico
+12. Burvok
+13. Jack
+14. Portia
