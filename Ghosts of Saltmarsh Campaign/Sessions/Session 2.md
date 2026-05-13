@@ -61,7 +61,7 @@ STORY
 				1. Maybe for a lookout (posits Rinn)? The signals are:
 					1. - x x x
 					2. x - x -
-					3. - - - 
+					3. \- - - 
 	9. We leave that room and head to the secret door Sanbalet was going for
 		1. Rinn stealths in, and there are stairs going down
 		2. We follow him down the stairs to a 20 ft diameter natural cavern. its slimy down there
