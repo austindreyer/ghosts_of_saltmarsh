@@ -95,14 +95,14 @@ STORY
 				2. Destination: Saltmarch warehouse B
 				3. Cargo loaded at point X:
 					1. 8 bolts sarcenet (deep indigo, almor)
-						1. Unloaded  bolts - Sandalet
+						1. Unloaded  bolts - Sanbalet
 					2. 15 casks gold mead (vintage 574 CY, almor)
-						1. Unloaded 15 casks - Sandelet
-					3. 30 units ballast offloaded to Blank Fang, destination Highport
+						1. Unloaded 15 casks - Sanbalet
+					3. 30 units ballast offloaded to Blank Fang, destination Highport*
 				4. Passengers loaded for ironworks run
 					1. Expect return 3rd of planting
 				5. A signature on it of Gellen Primewater (that bastard!)
-				6. Star at the bottom: 1 unit obtained from break-in. Transfer to Sea Ghost on return
+				6. *Star at the bottom: 1 unit obtained from break-in. Transfer to Sea Ghost on return
 					1. Killed attempting escape
 		24. There are no boats, they have gone somewhere and we have till tide to explore, so we go back to the "danger" door 
 			1. Rinn checks for traps, "perfectly safe"
@@ -148,6 +148,6 @@ STORY
 Summary:
 - Total $ found: 
 	- Stuff = 20 + 55 + 47 + 20 + (5 * 7gp for ribs) + 7 + 6 + 45 sp = 190 gp/7 45 sp/7 = 27gp & 6 sp each 
-	- Fabric bolts = 5 * 50gp 
+	- Fabric bolts = 5 * 50gp, Casks = 12 * 10gp
 
 -------------- END OF SESSION 2 ---------------
