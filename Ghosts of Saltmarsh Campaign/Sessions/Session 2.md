@@ -59,7 +59,7 @@ STORY
 			3. Wardrobe = fancy floor length oil skin coat (5 gp)
 			4. Small wood box = 12 candles, flint and steel, aaaaand a parchment with "Signals" written at the top and three signals listed
 				1. Maybe for a lookout (posits Rinn)? The signals are:
-					1. - x x x
+					1. \- x x x
 					2. x - x -
 					3. \- - - 
 	9. We leave that room and head to the secret door Sanbalet was going for
