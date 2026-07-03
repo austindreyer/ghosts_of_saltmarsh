@@ -1,5 +1,10 @@
 ## Town Council:
-1. Eliander Fireborn
+1. Anders Solmor
+	1. Head of the town council (elected)
+	2. Parents died in fire, from wealthiest families in town, has since been a gregarious and gregarious patron of the town
+	3. Scarin
+		1. Family retainer, his "Alfred"
+2. Eliander Fireborn
 	1. Appointed by king
 	2. [[Saltmarsh Player's Guide#The Factions of Saltmarsh|Loyalist]]
 	3. Captain of the town guard and town council member
@@ -7,19 +12,14 @@
 	1. Appointed by king
 	2. [[Saltmarsh Player's Guide#The Factions of Saltmarsh|Loyalist]]
 	3. Head of mining consortium 
-3. Anders Solmor
-	1. Head of the town council (elected)
-	2. Parents died in fire, from wealthiest families in town, has since been a gregarious and gregarious patron of the town
-	3. Scarin
-		1. Family retainer, his "Alfred"
-4. Eda Oland
+3. Eda Oland
 	1. Town council member (elected)
 	2. Hardcore [[Saltmarsh Player's Guide#The Factions of Saltmarsh|traditionalist]]
 	3. Known for taking in strays
 	4. Hadden "Salteye" Vain
 		1. The stray that stuck around
 	5. (Vinder knows her)
-5. Gellen Primewater
+4. Gellen Primewater
 	1. Town council member (elected)
 	2. [[Saltmarsh Player's Guide#The Factions of Saltmarsh|Traditionalist]]
 	3. Big partier, widely understood to be the biggest smuggler in Saltmarsh (Eliander would love to nail him)

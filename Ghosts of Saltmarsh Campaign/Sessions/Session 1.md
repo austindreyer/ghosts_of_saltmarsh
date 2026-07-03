@@ -6,8 +6,7 @@
 
 
 ### Story
-1. 
-2. There are three individuals (Friends of Fortune) that Jach knows that went on an adventure
+1. There are three individuals (Friends of Fortune) that Jach knows that went on an adventure
 	1. Ned Shakeshaft, Garric and Alara Hallowell
 		1. "They are honorable people, they want to do whats right" - Jach
 		2. They were talking about a haunted house that is supposedly filled with treasures, do we want to go?

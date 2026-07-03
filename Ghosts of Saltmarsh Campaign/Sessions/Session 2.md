@@ -17,10 +17,10 @@
 		1. My friend was killed, i want to solve/avenge her death
 	7. Portia
 		1. Hanna Rist (Snapping Line tavern owner) is a good friend, recommended I go to keep the interests of the loyalists involved, plus I'm curious to see what this ragtag group of people can do
-STORY
-2. Date
+#### Story
+1. Date
 	1. 11th of Coldeven, 576
-3. The basement
+2. The basement
 	1. No intact bottles of wine, plate mail, long sword, large shield covers the legs of a body
 		1. Longsword is...
 		2. Jach has light cast on his helm
