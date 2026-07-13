@@ -96,7 +96,7 @@
 			2. There is a vampire down there, he wants his freedom to give us his extensive information
 			3. He mentions the scarlet brotherhood, and we know that they run a country to the southeast 
 			4. We ask his name, it's Xolec (zo-LEK)
-			5. Been a vampire 200 years, been sealed in 100 years
+			5. Been a vampire 1,200 years, been sealed in 1,000 years
 			6. The priestess of St. Cuthbert could only bind me here, not defeat me
 				1. Why? Come in and we'll talk about it (NOPE!)
 			7. Vinder lays it out for Xolec, "we're not going to let you out, but we may not kill you. you may have better luck with someone else, we might send some firebolts your way"
