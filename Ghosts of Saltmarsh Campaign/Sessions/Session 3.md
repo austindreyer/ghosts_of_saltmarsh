@@ -115,4 +115,19 @@
 	5. Tally: 
 		1. 540 gp/7 = 77 each
 		2. 353 XP each
-	
+	6. Epilogue: 
+		1. Location: Crabber’s Cove.
+
+Vand stumbles down the stone stairs, manacled. A hulking figure descends behind him, a silver mask over his face. At the base, a slender man in a gold mask steps forward from the darkness.
+
+“I… I’m sorry, Elder, I know I messed up, I-” Vand stammers, panic in his eyes.
+
+The gold mask lifts a finger to his mouth. “Shhhh.... quiet, Little Brother. It’s not failure I mind, so much as incompetence. Whatever were you thinking, bringing the dwarves here, to our meeting place?”
+
+Vand looks away, studying the silver sigils on the walls of the descending staircase. “I just thought… you know, we’d be easy to find, for the town guard, when the time was right,” Vand babbles desperately.
+
+“Never mind the deficiencies of your feeble mind. The fact is, you did us a great service. You’ve heard that walls have ears? In this case, it appears the floorboards do.” The dark figure makes a noise between a laugh and a throat-clearing grunt. Behind Vand, the silver-masked figure grins vacantly. “Anyway, I’ve made a deal, so that even in death, you may serve the Brotherhood.”
+
+The golden mask steps aside. The brute forcefully shoves Vand through the open doorway at the base of the stairs.
+
+“N-no, wait, please!” Vand calls out, his voice cutting off in a wet gurgle as he is dragged into the darkness.
