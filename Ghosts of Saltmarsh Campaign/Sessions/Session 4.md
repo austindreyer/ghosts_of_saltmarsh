@@ -116,7 +116,7 @@
 						1. Box has 500 silver pieces (50 gp)
 						2. Chest has nothing
 						3. Books are, "principles of navigation" by dah "legal distinctions in matters of " by kazahr
-					2. There is a secret door, we find the catch and open the door into a cramped area that contains 8 large irregular shaped bundels wrapped in oil skins and in tied in rope
+					2. There is a secret door, we find the catch and open the door into a cramped area that contains 8 large irregular shaped bundles wrapped in oil skins and in tied in rope
 						1. Each contains lots of weapons including shield with lizard folk on it
 				10. Last room
 					1 .There is a parrot asleep in a cage and a chest that is unlocked with grubby garments with an iron box at the bottom that is locked but we have the key that contains 200 sp (20 gp), 
@@ -139,3 +139,5 @@
 				1. Eda says she thinks there must be something else on board, not just silk and goods. We say we heard splashes and don't doubt her but don't know definitely 
 		8. For next time:
 			1. We will take the Sea Ghost to deliver the weapons to the Lizard Folk and try to suss out what the hell is going on there. Oceanus will not come with us (unless shes ok with basic pirating) and then we'll bring her back. 
+
+Total coin: 500 gp (electrum) + 50 gp (purse) + 50 gp (silver pieces) + 20 gp (silver pieces) + 500 gp (contract with Gellan, another 700 gp after weapons delivered) - 10? electrum we gave Gellan = 620 gp now + 700 gp after delivery and return
