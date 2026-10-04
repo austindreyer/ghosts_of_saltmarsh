@@ -141,3 +141,4 @@
 			1. We will take the Sea Ghost to deliver the weapons to the Lizard Folk and try to suss out what the hell is going on there. Oceanus will not come with us (unless shes ok with basic pirating) and then we'll bring her back. 
 
 Total coin: 500 gp (electrum) + 50 gp (purse) + 50 gp (silver pieces) + 20 gp (silver pieces) + 500 gp (contract with Gellan, another 700 gp after weapons delivered) - 10? electrum we gave Gellan = 620 gp now + 700 gp after delivery and return
+
