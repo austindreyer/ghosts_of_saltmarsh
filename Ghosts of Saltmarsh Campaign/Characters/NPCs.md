@@ -2,7 +2,7 @@
 1. Anders Solmor
 	1. Head of the town council (elected)
 	2. Parents died in fire, from wealthiest families in town, has since been a gregarious and gregarious patron of the town
-	3. Scarin
+	3. Skerrin
 		1. Family retainer, his "Alfred"
 2. Eliander Fireborn
 	1. Appointed by king
@@ -49,7 +49,7 @@
 1. Capt. Xendros (Tiefling)
 		1. Faithful Quartermasters of Iuz
 		2. Wants to buy LOTS of fish
-		3. (Country he's from has bad reputation, rumored to be run by a demon/licht that controls the people, but far enough away we can trade)
+		3. (Country he's from has bad reputation, rumored to be run by a demon/lich that controls the people, but far enough away we can trade)
 2. Mefarra (mother) and Jasker (son)
 		1. Shop: Dwarven Anvil - Blacksmith
 			1. Have an actual Dwarven anvil in the shop
@@ -70,4 +70,3 @@
 	1. Muscle for hire
 3. Wellgar Brinehanded
 	1. Chief priest of Procan
-4. Sellen Reves - Legate of the Azure Verge (local member)
