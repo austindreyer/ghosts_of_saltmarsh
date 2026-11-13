@@ -79,14 +79,54 @@ This is the end because there _will_ be a night ambush...
 We can establish a class for our crew member:
 - Fighter, magic user, skill monkey (roll well/proficiency on skills)
 
+-------------- SUMMARY ---------------
 
+#### Session 5 Summary: Up the River to the Lizardfolk Queen
 
+**Prep in Saltmarsh**
+- We got the Sea Ghost ready to deliver the weapons to the lizardfolk and find out what's going on in the Hool Marshes. Party funds came to about 1,940 gp after cleansing the armor and paying for Vinder's spells.
+- Kionra Kester, a tanner, asked us to bring back the hides of any exotic beasts we kill.
+- We hired a new crew:
+	- **Morwenna Vale**, a chaotic half-elf who does illusions and arcane smuggling
+	- **Justin "Tug" Orlan**, a gentle half-orc capstan hauler who can make alchemical pitch
+	- **Lazaro Ramos**, a cook and priest of Procan who guards his galley
+	- **Oceanus** came back from last session
 
+**The Palisade**
+- Sahuagin ("sea devils") ambushed us at the river mouth: two regular ones and a four-armed one. The lizardfolk on the fort helped, though they mostly missed.
+- The four-armed one wore an unholy basalt necklace. Detect magic found nothing on it. Oceanus thinks sahuagin are mutated sea elves.
+- **Kresh**, the lizardfolk scout, told us the sahuagin drove his people out of their home about a month ago and nobody knows why. He agreed to guide us to Queen Othokent.
+- Kresh's advice: don't kill crocodiles because they're sacred. That includes **Thousand Teeth**, a giant crocodile his people treat as an avatar of their gods.
 
+**The Bullywug Toll**
+- **Gulpa-Gor**, the Bullywug King, blocked the river with a boom and demanded a toll. Our bluff failed and they attacked.
+- Vinder's minor illusion of Thousand Teeth distracted four bullywugs on some great rolls. Half the party went down, but we killed the bullywugs, flame-broiled the king and killed his giant toad (100 gp of hide).
+- Loot: **Helm of Underwater Action** (darkvision 60 ft, swim speed 30 ft). Jach took it.
 
+**The Ruined Tower**
+- Bright potion runoff was leaking from an old tower. Vinder thinks it may be what's making the sahuagin angry.
+- The boat sprang a leak. When we beached it we fought a gray ooze, which damages weapons that hit it, and an ochre jelly.
+- In the tower we found plans for a kind of fishbowl gas mask (water breathing plus a water tank) and these potions: greater healing, growth, climbing, slipperiness, and 2 x water breathing.
 
+**The Cursed Island**
+- Eldritch rolls gave everyone strange whispers. Those who passed spotted an island with an altar.
+- When we landed, Oceanus passed out for 5 minutes and Vinder for 10. We got out of there.
 
+**The Lizardfolk Lair**
+- Queen Othokent thanked us for the weapons, though she doesn't think much of humans as fighters. She had been working with Gellen Primewater.
+- The sahuagin follow a new religion built around the **eye of the elemental god**, the same symbol as on the necklace. She also warned us about toxic swamp gas and a **green dragon's lair** farther in.
+- **Ambassadors:** Taeral (sea elf), Aryn (merfolk), Sakith (locathah) and Vrakkor (koalinth hobgoblin).
+- Vrakkor insulted the sea elves and it turned into a duel. Arvis fought for all elvenkind with Taeral's trident, then crit and beheaded Vrakkor. The sea elves took the koalinth's place in the alliance.
 
+**What the Alliance Needs**
+- **Locathah** will join only if the river is cleared of the crocodile and the bullywugs.
+- **Bounty:** The Queen will quietly pay **1,500 gp** if someone kills Thousand Teeth. She can't order it herself because it's sacred.
+- **Bounty:** The merfolk will pay **1,000 gp** to deal with the kobolds that are fishing with dynamite and wrecking the reef.
+- Taeral and the sea elves are in. The kenku merchants could connect the alliance with Saltmarsh.
+- Our weapons are repaired, and Vinder got Taeral to sign his small sword.
 
+**Cliffhanger:** A night ambush is coming.
 
+**Open threads:** Should the crew members get classes (fighter, caster or skill monkey)? What is the eye-of-the-elemental-god cult, and does the tower runoff connect to it?
 
+-------------- END OF SESSION 5 ---------------
