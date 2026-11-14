@@ -129,4 +129,6 @@ We can establish a class for our crew member:
 
 **Open threads:** Should the crew members get classes (fighter, caster or skill monkey)? What is the eye-of-the-elemental-god cult, and does the tower runoff connect to it?
 
+Note: we spent 45 gp on some studded leather for Arvis
+
 -------------- END OF SESSION 5 ---------------
